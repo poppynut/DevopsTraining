@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/poppynut/DevopsTraining#readme",
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.18.2"
   }
 }
